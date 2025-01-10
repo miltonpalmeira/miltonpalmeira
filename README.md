@@ -53,7 +53,7 @@ Here you’ll find projects showcasing:
 
 ## Connect with Me 🤝
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)]([https://www.linkedin.com/in/miltonpalmeira/](https://www.linkedin.com/in/milton-palmeira-santana/?locale=en_US))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/milton-palmeira-santana/?locale=en_US)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=github&logoColor=white&style=flat-square)](https://www.github.com/miltonpalmeira)  
 
 ---
